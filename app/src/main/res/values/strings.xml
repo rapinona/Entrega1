@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">Entrega1</string>
+    <string name="app_name">Delivery1</string>
     <string name="byRodrigo">By Rodrigo Piñón Ayala</string>
     <string name="version">version 1.0</string>
-    <string name="diplomado">Diplomado Entrega 1</string>
-    <string name="seleccionaFormula">Selecciona una Fórmula</string>
-    <string name="calcular">Calcular</string>
+    <string name="diplomado">Diplomat Delivery 1</string>
+    <string name="seleccionaFormula">Select a Formula</string>
+    <string name="calcular">Calculate</string>
     <string name="a">A:</string>
     <string name="b">B:</string>
     <string name="c">C:</string>
-    <string name="campoCero">Este Campo no puede ser cero</string>
-    <string name="campoVacio">El campo no puede estar vacío</string>
-    <string name="resultado">Resultado</string>
+    <string name="campoCero">This Field cannot be zero</string>
+    <string name="campoVacio">The field cannot be empty</string>
+    <string name="resultado">Result</string>
     <string name="x1">X1:</string>
     <string name="x2">X2:</string>
     <string name="cero">0</string>
@@ -19,8 +19,8 @@
     <string name="lado">L:</string>
     <string name="apotema">ap:</string>
     <string-array name="formulas_array">
-        <item>Segundo Grado</item>
-        <item>Área Triangulo</item>
-        <item>Área Pentagono</item>
+        <item>Second grade</item>
+        <item>Triangle Area</item>
+        <item>Pentagon Area</item>
     </string-array>
 </resources>
